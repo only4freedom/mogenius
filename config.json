@@ -7,7 +7,7 @@
   "inbounds": [
     {
       "port": PORT,
-      "protocol": "vless",
+      "protocol": "vmess",
       "settings": {
         "decryption": "none",
         "clients": [
